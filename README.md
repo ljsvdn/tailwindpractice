@@ -6,8 +6,8 @@
 
 install dependencies:
 
-    ``` npm install ```
+    npm install
 
 run the project:
 
-    ``` npm run dev ```
+    npm run dev
