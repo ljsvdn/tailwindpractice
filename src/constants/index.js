@@ -86,7 +86,7 @@ export const services = [
   },
   {
     imgURL: support,
-    label: "Love to help you",
+    label: "24/7 Customer Service",
     subtext: "Our dedicated team is here to assist you every step of the way.",
   },
 ];
