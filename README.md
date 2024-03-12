@@ -1,6 +1,4 @@
-# React + Vite
-
-## Tailwind practice project
+# Tailwind practice project
 
 ### Installation and running the project
 
